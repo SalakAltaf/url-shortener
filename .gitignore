@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+shortener.db
+.mypy_cache/
+.pytest_cache/
+.venv/
+.env

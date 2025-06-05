@@ -52,7 +52,7 @@ jobs:
       - name: Run pytest
         env:
           DATABASE_URL: postgresql://user:password@localhost:5432/shortener
-          API_KEY: testkey123
+          API_KEY: Rawan-711
         run: |
           pytest --maxfail=1 --disable-warnings -q
 
